@@ -1,0 +1,35 @@
+body {
+  color: #333;
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+
+input {
+  display: block;
+  width: 90%;
+  padding: 6px;
+  margin: 9px auto;
+  box-sizing: border-box;
+  border: none;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+input[type="submit"] {
+  width: 50%;
+  margin-top: 18px;
+  padding: 9px;
+}
+
+form {
+  width: 86%;
+  margin: auto;
+  background-color: black;
+  padding: 30px;
+}
